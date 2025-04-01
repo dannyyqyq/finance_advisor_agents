@@ -1,0 +1,4 @@
+ipykernel
+crewai
+crewai-tools
+dot_env
